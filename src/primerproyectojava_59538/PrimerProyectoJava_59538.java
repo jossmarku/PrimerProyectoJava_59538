@@ -21,5 +21,4 @@ public class PrimerProyectoJava_59538 {
         char letra = 'j';
         boolean aprobar = true;
     }
-    
 }
