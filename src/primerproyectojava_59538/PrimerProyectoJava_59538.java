@@ -22,3 +22,4 @@ public class PrimerProyectoJava_59538 {
         boolean aprobar = true;
     }
 }
+
